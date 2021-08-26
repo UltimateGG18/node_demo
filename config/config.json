@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "gaurav@18",
+    "database": "Node_Practice",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "gaurav@18",
+    "database": "Node_Practice",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "gaurav@18",
+    "database": "Node_Practice",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
